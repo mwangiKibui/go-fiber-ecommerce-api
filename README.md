@@ -5,7 +5,7 @@
 - Run the below command to install the required modules:
 
     ```bash
-    bash
+    go get
     ```
 
 - Start the development server:
